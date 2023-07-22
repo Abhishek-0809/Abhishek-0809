@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **abhishekwaghmare34@gmail.com**
 
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://github.com/Abhishek-0809/Abhishek-0809/blob/main/images/Coding_GIF.gif?raw=true)")
-
+<img align="right" alt="Coding" width="400" src="./images/Coding_GIF.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
