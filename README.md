@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhishekwaghmare34@gmail.com**
 
-<img align="right" alt="Coding" width="300" src="./images/Coding_GIF.gif">
+<img align="right" alt="Coding" width="400" src="./images/Coding_GIF.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
