@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0809&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-0809" /> </p>
 
+- 🌱 I’m currently learning **Full Stack Development Course**
+
 - 👨‍💻 All of my projects are available at [https://abhishekk-portfolio-website.netlify.app/](https://abhishekk-portfolio-website.netlify.app/)
+
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **abhishekwaghmare34@gmail.com**
 
