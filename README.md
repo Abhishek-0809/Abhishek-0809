@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **abhishekwaghmare34@gmail.com**
 
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://github.com/Abhishek-0809/Abhishek-0809/blob/main/images/Coding_GIF.gif?raw=true)")
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-waghmare-ab4933215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-waghmare-ab4933215" height="30" width="40" /></a>
